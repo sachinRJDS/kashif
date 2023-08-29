@@ -1,0 +1,1 @@
+//hoisting ==> variables and function are hoisted which menas there declaration is moved on the top of code
